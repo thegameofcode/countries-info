@@ -1,0 +1,34 @@
+{
+  "name": "countrycodes",
+  "version": "1.0.0",
+  "description": "nodejs library for managing countries information",
+  "main": "index.js",
+  "scripts": {
+    "test": "make test",
+    "lint": "./node_modules/.bin/gulp jshint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thegameofcode/countrycodes.git"
+  },
+  "author": "The Game Of Code",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/thegameofcode/countrycodes/issues"
+  },
+  "homepage": "https://github.com/thegameofcode/countrycodes",
+  "devDependencies": {
+    "gulp": "^3.8.10",
+    "gulp-jshint": "^1.9.0",
+    "mocha": "^2.1.0",
+    "pre-commit": "0.0.11",
+    "which": "^1.0.8"
+  },
+  "dependencies": {
+    "async": "^0.9.0"
+  },
+  "pre-commit": [
+    "lint",
+    "test"
+  ]
+}
