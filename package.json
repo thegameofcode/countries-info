@@ -1,5 +1,5 @@
 {
-  "name": "countrycodes",
+  "name": "countries-info",
   "version": "1.0.0",
   "description": "nodejs library for managing countries information",
   "main": "index.js",
