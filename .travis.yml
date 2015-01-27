@@ -5,7 +5,7 @@ deploy:
   provider: npm
   email: thegameofcodeteam@gmail.com
   api_key:
-    secure: T3kXBHpLY2FUpionflUzrNEUXwV5BOVgQrxoQOKx51hEj3ysRJqU9kZk8S7fIuaFnA3HI2N+Df50s85X1+xHfdPqgVxDQRiu/KY2WuyKbIQOr3H9lFJE+wGOfXaNfgIv9V+W4EKK6wbAa49TTaHRJKQZdptAzYe5chqb14aPoVE=
+    secure: eAURDS02fBhVbmuQmExyT+VyaXJLltxnhepSvvAM1KCz9uHHUFLqhW2i823IqhnkZdVzTQWJ0DSb3t1mKhkfDu7+2hjcMQGJ1wGY24PiX8Zr7S0De80wYEcSrRv+WCSgJ/CMOvTt5fezhTZ9xc/ZN7NFz+lrWu0jXFhokOV/GuM=
   on:
     tags: true
     repo: thegameofcode/countries-info
