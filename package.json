@@ -1,6 +1,6 @@
 {
   "name": "countries-info",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "nodejs library for managing countries information",
   "main": "index.js",
   "scripts": {
