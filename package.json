@@ -1,8 +1,8 @@
 {
   "name": "countries-info",
-  "version": "1.0.6",
+  "version": "1.0.7",
   "description": "nodejs library for managing countries information",
-  "main": "index.js",
+  "main": "lib/countrycodes.js",
   "scripts": {
     "test": "make test",
     "lint": "./node_modules/.bin/gulp jshint"
