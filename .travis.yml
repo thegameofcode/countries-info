@@ -8,5 +8,5 @@ deploy:
     secure: T3kXBHpLY2FUpionflUzrNEUXwV5BOVgQrxoQOKx51hEj3ysRJqU9kZk8S7fIuaFnA3HI2N+Df50s85X1+xHfdPqgVxDQRiu/KY2WuyKbIQOr3H9lFJE+wGOfXaNfgIv9V+W4EKK6wbAa49TTaHRJKQZdptAzYe5chqb14aPoVE=
   on:
     tags: true
-    repo: thegameofcode/countrycodes
+    repo: thegameofcode/countries-info
     all_branches: true
