@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/thegameofcode/countrycodes.git"
+    "url": "https://github.com/thegameofcode/countries-info.git"
   },
   "author": "The Game Of Code",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/thegameofcode/countrycodes/issues"
   },
-  "homepage": "https://github.com/thegameofcode/countrycodes",
+  "homepage": "https://github.com/thegameofcode/countries-info",
   "devDependencies": {
     "gulp": "^3.8.10",
     "gulp-jshint": "^1.9.0",
